@@ -1,2 +1,2 @@
 # theodinassignment1
-the odin project - assignment on GitHub
+This is my first git project!
